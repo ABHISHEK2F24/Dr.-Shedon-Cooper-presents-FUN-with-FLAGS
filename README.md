@@ -6,6 +6,12 @@ This repository contains country flag's Matlab code. Run the code directly by do
 
 
 ## List of Countries
-   1. [India](india.m)
-   2. USA
-   3. China
+   - [India](india.m)
+   
+   - [USA](usa.m)
+   
+   - [China](china.m)
+
+
+#Contribute
+If you want to know MATLAB code of your own flag please let me know. Any suggestions, edits, bug fixes and pull requests are welcome Here.
