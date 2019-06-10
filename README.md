@@ -6,11 +6,30 @@ This repository contains country flag's Matlab code. Run the code directly by do
 
 
 ## List of Countries
-   - [India](india.m)
-   
-   - [USA](usa.m)
-   
-   - [China](china.m)
+    - [Austria](austria.m)
+    
+    - [Bangladesh](bangladesh.m)
+    
+    - [France](france.m)
+    
+    - [India](india.m)
+    
+    - [Japan](japan.m)
+    
+    - [Kuwait](kuwait.m)
+    
+    - [Seychelles](seychelles.m)
+    
+    - [Sudan](sudan.m)
+    
+    - [Sweden](sweden.m)
+    
+    - [Switzerland](switzerland.m)
+    
+    - [Thailand](thailand.m)
+    
+    - [USA](usa.m)
+
 
 
 # Contribute
